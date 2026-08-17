@@ -4,8 +4,8 @@
   "private": true,
   "main": "main.js",
   "scripts": {
-    "dev": "electron .",
-    "build": "electron-builder",
+    "dev": "node init && electron .",
+    "build": "node init && electron-builder",
     "test": "node --test tests/*.test.js"
   },
   "dependencies": {
