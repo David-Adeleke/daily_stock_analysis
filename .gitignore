@@ -89,3 +89,6 @@ static/
 /apps/dsa-desktop/node_modules/
 /node_modules/
 docs/specs/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
